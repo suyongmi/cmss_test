@@ -1,5 +1,1 @@
-public class Category { 
-	
-	if(!file.exists()) {
-			file.createNewFile();
-		}
+//我是组长
